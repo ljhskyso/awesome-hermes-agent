@@ -1,0 +1,15 @@
+.DS_Store
+*.swp
+*.bak
+.idea/
+.vscode/
+node_modules/
+*.log
+
+# Local snapshot dirs created by skills at runtime
+**/snapshots/
+
+# Local secrets
+.env
+.env.local
+secrets/
